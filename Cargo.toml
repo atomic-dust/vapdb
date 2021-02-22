@@ -1,5 +1,5 @@
 [package]
-name = "ethdb"
+name = "vapdb"
 version = "0.1.0"
 authors = ["Artem Vorotnikov <artem@vorotnikov.me>"]
 edition = "2018"
