@@ -3,7 +3,7 @@ name = "vapdb"
 version = "0.1.0"
 authors = ["Artem Vorotnikov <artem@vorotnikov.me>"]
 edition = "2018"
-description = "Rust implementation of turbo-geth database format"
+description = "Rust implementation of turbo-gvap database format"
 license = "Apache-2.0"
 
 [dependencies]
